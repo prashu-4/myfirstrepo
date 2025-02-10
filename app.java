@@ -1,4 +1,14 @@
+<!DOCTYPE html>
+<html>
 
-hello world
-how are u
+<head>
+    <title>First Web Page</title>
+</head>
+
+<body>
+    Hello World!
+</body>
+
+</html>
+
 
